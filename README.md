@@ -8,7 +8,7 @@
 - 🎓 Co-Op Studying Computer Science (B. Sc.) and nominee of the [ICS e.V programme](https://ics-ev.de/)
 - 👨🏻‍💻 Working as a Junior Software Engineer at [Ascent](https://www.ascent.io/)
 - 🔬 Helping out with electronics/technology stacks at [AuxSpace](https://auxspace.de/) students club
-- 📚 I'm currently learning Azure technologies (Azure Functions / Durable Functions, CosmosDB and more)
+- 📚 I'm currently learning Azure (Durable) Functions, CosmosDB and more
 - ⚡ In my free time I like to dabble with microcontrollers, sensors and Discord bots!
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=moeux.moeux&"  />
