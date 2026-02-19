@@ -7,7 +7,7 @@
 - 🌐 Near Munich, Germany
 - 🎓 Co-Op Studying Computer Science (B. Sc.) and nominee of the [ICS e.V programme](https://ics-ev.de/)
 - 👨🏻‍💻 Working as a Junior Software Engineer at [Acuity Analytics](https://www.acuityanalytics.com/)
-- 🔬 Helping out with electronics/technology stacks at [AuxSpace](https://auxspace.de/) students club
+- 🔬 Helping out with electronics/technology stacks at [AUXSPACE e. V.](https://auxspace.de/) students club
 - 📚 I'm currently learning Azure (Durable) Functions, CosmosDB, GremlinDB and more
 - ⚡ In my free time I like to dabble with microcontrollers, sensors, Discord bots and plugins!
 
