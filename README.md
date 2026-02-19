@@ -42,6 +42,6 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moeux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moeux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=moeux&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" width="588" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=moeux&langs_count=4&theme=catppuccin_mocha" width="300" alt="languages graph"  />
 </div>
