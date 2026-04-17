@@ -5,10 +5,10 @@
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/68925026"  />
 
 - 🌐 Near Munich, Germany
-- 🎓 Co-Op Studying Computer Science (B. Sc.) and nominee of the [ICS e.V programme](https://ics-ev.de/)
-- 👨🏻‍💻 Working as a Junior Software Engineer at [Acuity Analytics](https://www.acuityanalytics.com/)
+- 🎓 Co-Op studied Computer Science (B. Sc.) and nominee of the [ICS e.V programme](https://ics-ev.de/)
+- 👨🏻‍💻 Working as a Software Engineer at [Acuity Analytics](https://www.acuityanalytics.com/)
 - 🔬 Helping out with electronics/technology stacks at [AUXSPACE e. V.](https://auxspace.de/) students club
-- 📚 I'm currently learning Azure (Durable) Functions, CosmosDB, GremlinDB and more
+- 📚 I'm currently deep in Azure (Durable) Functions, Orchestrations, CosmosDB, GremlinDB and more
 - ⚡ In my free time I like to dabble with microcontrollers, sensors, Discord bots and plugins!
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=moeux.moeux&"  />
